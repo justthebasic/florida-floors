@@ -65,7 +65,7 @@ const GallerySection = () => {
         },
         {
             id: 4,
-            url: "https://images.unsplash.com/photo-1562113693-57ba467cea38?ixlib=rb-4.0.3&w=600",
+            url: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixlib=rb-4.0.3&w=600",
             title: "Master Bedroom",
             category: "vinyl",
             size: "medium",
@@ -102,7 +102,7 @@ const GallerySection = () => {
         },
         {
             id: 8,
-            url: "https://images.unsplash.com/photo-1615800001234-92e5a6a0f1c2?ixlib=rb-4.0.3&w=400",
+            url: "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?ixlib=rb-4.0.3&w=400",
             title: "Entrance Hall",
             category: "ceramic",
             size: "small",
